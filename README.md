@@ -79,7 +79,8 @@ A complete data cleaning and analysis project using the Indian subset of the You
 ---
 
 ##  SQL Files Structure
-**YouTubeSQLProject/**
+```
+YouTubeSQLProject/
 |── README.md
 ├── data/
 │   └── INvideos_utf8.csv
@@ -89,4 +90,6 @@ A complete data cleaning and analysis project using the Indian subset of the You
 │   └── analysis_queries.sql
 ├── report/
 │   ├── youtube_analysis_report.pdf 
-
+```
+## Conclusion
+This project demonstrates the end-to-end process of transforming messy YouTube trending data into valuable insights using SQL. By cleaning, formatting, and analyzing data at scale, we uncovered key engagement trends, top-performing channels, and viewer behavior across categories. The approach is scalable for similar social media datasets, helping businesses, content creators, or marketers make data-driven decisions.
