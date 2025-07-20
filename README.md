@@ -83,7 +83,8 @@ A complete data cleaning and analysis project using the Indian subset of the You
 YouTubeSQLProject/
 |── README.md
 ├── data/
-│   └── INvideos_utf8.csv
+│   └── INvideos_utf8.csv (zip file)
+│   └── IN_category_id.json
 ├── sql/
 │   ├── create_tables.sql
 │   ├── cleaning_steps.sql
